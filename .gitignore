@@ -1,3 +1,17 @@
+#Hexo
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+#package-lock.json
+
+#Ulysses
+.Ulysses-favorites.plist
+.Ulysses-Group.plist
+
 # Logs
 logs
 *.log
