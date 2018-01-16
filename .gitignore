@@ -6,7 +6,7 @@ db.json
 node_modules/
 public/
 .deploy*/
-#package-lock.json
+package-lock.json
 
 #Ulysses
 .Ulysses-favorites.plist
